@@ -1,4 +1,3 @@
-````md
 # 🤖 Arduino Bluetooth Collision Avoidance Robot Car
 
 ![image](car_conn.png)
