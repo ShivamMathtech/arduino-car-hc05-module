@@ -1,9 +1,7 @@
 ````md
 # 🤖 Arduino Bluetooth Collision Avoidance Robot Car
 
-<p align="center">
-  <img src="workflow.png" width="700"/>
-</p>
+![image](car_conn.png)
 
 <h3 align="center">
 🚗 Bluetooth Controlled + Obstacle Avoidance Smart Robot
@@ -81,25 +79,17 @@ DC Motors
 
 ## 📷 Robot Car
 
-<p align="center">
-  <img src="car_conn.png" width="700"/>
-</p>
+![image](car_conn.png)
 
 ---
 
 ## 🔌 Circuit Diagram
 
-<p align="center">
-  <img src="car_conn.png" width="900"/>
-</p>
-
----
+## ![image](workflow.png)
 
 ## 📱 MIT App Inventor Blocks
 
-<p align="center">
-  <img src="images/mit-blocks.png" width="900"/>
-</p>
+![image](app_logi.png)
 
 ---
 
